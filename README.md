@@ -1,10 +1,24 @@
-# 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abbasali-mirza) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YrdY7d7n) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abbasalimirzaa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abbas.a.mirza)
+<!-- markdownlint-disable MD033 -->
+<h1 align="center"><𝙿𝚛𝚘𝚏𝚒𝚕𝚎 /></h1>
 
-# 💻 Tech Stack
- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Banner](./images/me.png)
 
-# 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=abbasamirza&show_icons=true&theme=dark)
+- 💪🏼 Specialize in web development technologies like `Next`, `React` with `Typescript`.
+- 🚙 Worked on backend technologies like `Express`
+- 📚 Learning `Python`, `Django`, `GraphQL`.
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abbasamirza&layout=compact&theme=dark&card_width=490)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=abbasamirza&show_icons=true&theme=dark&card_width=490)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=abbasamirza&theme=dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abbasamirza&layout=compact&theme=dark)
+
+> 📗 If you're interested in collaborating or have any questions — I'd love to hear from you!
+>
+> <p align="center">
+>  <a href="https://linkedin.com/in/abbasali-mirza" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+>   <a href="mailto:abbasamirza2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+>   <a href="https://discord.gg/YrdY7d7n" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" /></a>
+> </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abbasamirza&style=for-the-badge&color=blue" alt="Profile Views">
+</p>
