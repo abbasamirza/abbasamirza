@@ -3,13 +3,19 @@
 
 ![Banner](./images/me.png)
 
-- 💪🏼 Specialize in web development technologies like `Next`, `React` with `Typescript`.
-- 🚙 Worked on backend technologies like `Express`
-- 📚 Learning `Python`, `Django`, `GraphQL`.
+---
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abbasamirza&layout=compact&theme=dark&card_width=490)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=abbasamirza&show_icons=true&theme=dark&card_width=490)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=abbasamirza&theme=dark)
+- 💪🏼 Specialize in web development technologies like ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) with ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+- 🚙 Worked on backend technologies like ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+- 📚 Learning ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+---
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abbasamirza&layout=compact&theme=dark&card_width=1080)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=abbasamirza&show_icons=true&theme=dark&card_width=1080)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=abbasamirza&theme=dark&card_width=1080)
+
+---
 
 > 📗 If you're interested in collaborating or have any questions — I'd love to hear from you!
 >
