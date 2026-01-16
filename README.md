@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abbasamirza&layout=compact&theme=dark" alt="Most Used Languages" width="49%" style="display: inline-block;" />&nbsp;&nbsp;<img src="https://github-readme-stats-fast.vercel.app/api?username=abbasamirza&show_icons=true&theme=dark&line_height=36" alt="GitHub Stats" width="49%" style="display: inline-block;" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abbasamirza&layout=compact&theme=dark" alt="Most Used Languages" width="49%" style="display: inline-block;" />&nbsp;&nbsp;<img src="https://github-readme-stats-fast.vercel.app/api?username=abbasamirza&show_icons=true&theme=dark&line_height=35" alt="GitHub Stats" width="49%" style="display: inline-block;" />
 </p>
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=abbasamirza&theme=dark" alt="GitHub Streaks" width="100%" />
 
