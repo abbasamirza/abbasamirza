@@ -5,14 +5,13 @@
 
 ---
 
-- 💪🏼 Specialize in web development technologies like <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next JS" style="vertical-align: middle;"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" style="vertical-align: middle;"> with <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="vertical-align: middle;">
-- 🚙 Worked on backend technologies like <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js" style="vertical-align: middle;">
-- 📚 Learning <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" style="vertical-align: middle;"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" alt="Django" style="vertical-align: middle;"> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" style="vertical-align: middle;">
+- 💪🏼 Specialize in web development technologies like <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next JS" height="18" align="center"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" height="18" align="center"> with <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="18" align="center">
+- 🚙 Worked on backend technologies like <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js" height="18" align="center">
+- 📚 Learning <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" height="18" align="center"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" alt="Django" height="18" align="center"> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" height="18" align="center">
 
 ---
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abbasamirza&layout=compact&theme=dark" alt="Most Used Languages" width="100%" />
-<img src="https://github-readme-stats-fast.vercel.app/api?username=abbasamirza&show_icons=true&theme=dark" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abbasamirza&layout=compact&theme=dark" alt="Most Used Languages" width="50%" /><img src="https://github-readme-stats-fast.vercel.app/api?username=abbasamirza&show_icons=true&theme=dark&line_height=35" alt="GitHub Stats" width="50%" />
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=abbasamirza&theme=dark" alt="GitHub Streaks" width="100%" />
 
 ---
